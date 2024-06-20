@@ -1,0 +1,348 @@
+#EXTM3U
+#EXTINF:0,SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:0,SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:0,SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:0,SCTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:0,SCTV6
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8
+#EXTINF:0,SCTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
+#EXTINF:0, SCTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
+#EXTINF:0,SCTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
+#EXTINF:0,SCTV11
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8
+#EXTINF:0,SCTV12
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8
+#EXTINF:0,SCTV13
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
+#EXTINF:0,SCTV14
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
+#EXTINF:0,SCTV15
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#EXTINF:0,SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
+#EXTINF:0,SCTV17
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
+#EXTINF:0,SCTV18
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
+#EXTINF:0,SCTV19
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+#EXTINF:0,SCTV20
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
+#EXTINF:0,SCTV21
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
+#EXTINF:0,SCTV22
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
+#EXTINF:0,SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
+#EXTVLCOPT:network-caching=1000
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+#EXTINF:0,ANTV HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.169:30120
+#EXTINF:0,Nhân Dân TV
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.91:30120
+#EXTINF:0,Quốc Hội HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.148:30120
+#EXTINF:0,QPVN
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.217:30120
+#EXTINF:0,VNEWS
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.167:30120
+#EXTINF:0,VTV1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.249:30120
+#EXTINF:0,VTV2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.13:30120
+#EXTINF:0,VTV3
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.247:30120
+#EXTINF:0,VTV4
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.20:30120
+#EXTINF:0,VTV5
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.131:30120
+#EXTINF:0,VTV Cần Thơ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.245:30120
+#EXTINF:0,VTV7
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.96:30120
+#EXTINF:0,VTV8
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.166:30120
+#EXTINF:0,VTV9
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.128:30120
+#EXTINF:0,VTV5 Tây Nam Bộ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.236:30120
+#EXTINF:0,VTV5 Tây Nguyên
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.108:30120
+#EXTINF:0,Vĩnh Long 1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.7:30120
+#EXTINF:0,Vĩnh Long 2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.19:30120
+#EXTINF:0,Vĩnh Long 3
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.16:30120
+#EXTINF:0,Vĩnh Long 4
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.20:30120
+#EXTINF:0,Bạc Liêu
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.61:30120
+#EXTINF:0,Bình Dương 1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.150:30120
+#EXTINF:0,Bình Dương 2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.149:30120
+#EXTINF:0,Bình Dương 9
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.189:30120
+#EXTINF:0,Cà Mau
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.104:30120
+#EXTINF:0,Cần Thơ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.132:30120
+#EXTINF:0,Đồng Nai 1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.152:30120
+#EXTINF:0,Đồng Nai 2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.151:30120
+#EXTINF:0,Đà Nẵng 1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.147:30120
+#EXTINF:0,Đà Nẵng 2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.146:30120
+#EXTINF:0,Hậu Giang
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.157:30120
+#EXTINF:0,Long An
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.162:30120
+#EXTINF:0,HTV1
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.180:30120
+#EXTINF:0,HTV2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.13:30120
+#EXTINF:0,HTV3
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.178:30120
+#EXTINF:0,HTV7 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.192:30120
+#EXTINF:0,HTV9 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.190:30120
+#EXTINF:0,HTV Thể Thao
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.165:30120
+#EXTINF:0,HTVC Ca Nhạc
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.185:30120
+#EXTINF:0,HTVC Du Lịch
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.166:30120
+#EXTINF:0,HTVC Gia Đình
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.170:30120
+#EXTINF:0,HTVC Phim
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.184:30120
+#EXTINF:0,HTVC Phụ Nữ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.171:30120
+#EXTINF:0,HTVC Thuần Việt
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.186:30120
+#EXTINF:0,HTVC+
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.181:30120
+#EXTINF:0,HTV Keys
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.177:30120
+#EXTINF:0,ON Vie Giải Trí
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/180/index.m3u8
+#EXTINF:0,ON Phim Việt
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/175/index.m3u8
+#EXTINF:0,ON Movies
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/181/index.m3u8
+#EXTINF:0,ON E Channel
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/182/index.m3u8
+#EXTINF:0,ON BiBi
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/178/index.m3u8
+#EXTINF:0,ON Info TV
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/189/index.m3u8
+#EXTINF:0,ON Cine
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/176/index.m3u8
+#EXTINF:0,ON Style TV
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/184/index.m3u8
+#EXTINF:0,ON Music
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/185/index.m3u8
+#EXTINF:0,ON Trending TV
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/186/index.m3u8
+#EXTINF:0,ON Sport News
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/170/index.m3u8
+#EXTINF:0,ON Vie DRAMAS
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/177/index.m3u8
+#EXTINF:0,ON VFamily
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/187/index.m3u8
+#EXTINF:0,ON Kids
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/179/index.m3u8
+#EXTINF:0,ON Life
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/169/index.m3u8
+#EXTINF:0,ON Golf 
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/188/index.m3u8
+#EXTINF:0,BTV5
+#EXTVLCOPT:network-caching=1000
+https://api.wintv.me/360/2380/index.m3u8
+#EXTINF:0,VTC1 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.254:30120
+#EXTINF:0,VTC2
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.202:30120
+#EXTINF:0,VTC3 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.251:30120
+#EXTINF:0,VTC4 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.200:30120
+#EXTINF:0,VTC5 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.199:30120
+#EXTINF:0,VTC6 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.198:30120
+#EXTINF:0,VTC7
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.197:30120
+#EXTINF:0,VTC8
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.196:30120
+#EXTINF:0,VTC9 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.195:30120
+#EXTINF:0,VTC10 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.194:30120
+#EXTINF:0,VTC11
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.193:30120
+#EXTINF:0,VTC14 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.88:30120
+#EXTINF:0,VTC16 HD
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.190:30120
+#EXTINF:0,VOV TV
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.171:30120
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.233:30120
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+https://hqth.me/cinemaxkb
+#EXTINF:0,BBC News
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.74:30120
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.231:30120
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.225:30120
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.17:30120
+#EXTINF:0,Discovery Asia
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.223:30120
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.238:30120
+#EXTINF:0,Dreamworks
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.136:30120
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.215:30120
+#EXTINF:0,WBTV
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.139:30120
