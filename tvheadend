@@ -79,11 +79,11 @@ http://192.168.1.245:9981/stream/channelid/1705977230?profile=pass
 http://192.168.1.245:9981/stream/channelid/2122330879?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="9f5c34ca8ae98ef9117714555736a7d9" group-title="HTV" tvg-chno="38",HTVC Du Lich
 http://192.168.1.245:9981/stream/channelid/1244945567?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3WanRsM.png" tvg-id="42d570effe8bed890589f16cfe19dd4d" group-title="HTV" tvg-chno="39",HTVC Gia Đinh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="42d570effe8bed890589f16cfe19dd4d" group-title="HTV" tvg-chno="39",HTVC Gia Đinh
 http://192.168.1.245:9981/stream/channelid/1869665602?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W16kIQP.png" tvg-id="3b914fdbf33e4766fb9fa0209a191092" group-title="HTV" tvg-chno="40",HTVC Phim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="3b914fdbf33e4766fb9fa0209a191092" group-title="HTV" tvg-chno="40",HTVC Phim
 http://192.168.1.245:9981/stream/channelid/1531941179?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyyovVe.png" tvg-id="0a13ac70b6e0b3e214e6db88c37915d2" group-title="HTV" tvg-chno="41",HTVC Phu Nu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="0a13ac70b6e0b3e214e6db88c37915d2" group-title="HTV" tvg-chno="41",HTVC Phu Nu
 http://192.168.1.245:9981/stream/channelid/1890325258?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="53320a7a7667a250ec4f4a303cf72c24" group-title="HTV" tvg-chno="42",HTVC Thuan Viet
 http://192.168.1.245:9981/stream/channelid/2047488595?profile=pass
