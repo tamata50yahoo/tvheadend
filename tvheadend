@@ -84,7 +84,7 @@ http://192.168.1.245:9981/stream/channelid/1745240409?profile=pass
 http://192.168.1.245:9981/stream/channelid/1426362353?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="b3caa1d5861959f4177d87048031c3e8" group-title="HTV" tvg-chno="40",HTVC Phim
 http://192.168.1.245:9981/stream/channelid/1436666547?profile=pass
-#EXTINF:-1 tvg-logo="http://192.168.1.245:9981/imagecache/1" tvg-id="45757e41d0178ccaa15baa381d4c795c" group-title="HTV" tvg-chno="41",HTVC Phu Nu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="45757e41d0178ccaa15baa381d4c795c" group-title="HTV" tvg-chno="41",HTVC Phu Nu
 http://192.168.1.245:9981/stream/channelid/1098806597?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="440e3e15b5a980231f2410d00620abb8" group-title="HTV" tvg-chno="42",HTVC Thuan Viet
 http://192.168.1.245:9981/stream/channelid/356388420?profile=pass
