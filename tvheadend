@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="3dcd55e8ead587fc7f264b2ffe0b430e" group-title="VTV" tvg-chno="1",VTV1
 http://192.168.1.245:9981/stream/channelid/1750453565?profile=pass
