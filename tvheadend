@@ -36,7 +36,8 @@ http://192.168.1.245:9981/stream/channelid/1724704154?profile=pass
 http://192.168.1.245:9981/stream/channelid/1416421433?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="6d446b92f484d1ff37cd1bc011d104ec" group-title="VTC" tvg-chno="17",VTC1
-http://192.168.1.245:9981/stream/channelid/309019757?profile=pass
+https://api.wintv.me/360/16/index.m3u8
+#http://192.168.1.245:9981/stream/channelid/309019757?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="4722a1c5a33416c7d46c0520ae47c71f" group-title="VTC" tvg-chno="18",VTC2
 http://192.168.1.245:9981/stream/channelid/1168187975?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="725a662d27509fef75641afc29c92c0f" group-title="VTC" tvg-chno="19",VTC3
