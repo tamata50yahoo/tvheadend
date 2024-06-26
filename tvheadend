@@ -105,6 +105,39 @@ http://192.168.1.245:9981/stream/channelid/1197722636?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="ba64e3377c78f8db2bdd42b63a38d5fb" group-title="HTV" tvg-chno="50",THVL4 _ TH Vinh Long
 http://192.168.1.245:9981/stream/channelid/937649338?profile=pass
 
+#-------------------------VTVcab---------------------------#
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+https://api.wintv.me/360/180/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
+https://api.wintv.me/360/175/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
+https://api.wintv.me/360/181/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
+https://api.wintv.me/360/182/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+https://api.wintv.me/360/178/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+https://api.wintv.me/360/189/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+https://api.wintv.me/360/176/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+https://api.wintv.me/360/184/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
+https://api.wintv.me/360/185/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+https://api.wintv.me/360/186/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Sport News
+https://api.wintv.me/360/170/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://api.wintv.me/360/177/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+https://api.wintv.me/360/187/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
+https://api.wintv.me/360/179/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
+https://api.wintv.me/360/169/index.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="c168c6ee92b70b7d37380dc733ab2a4a" group-title="Quốc tế" tvg-chno="120",ABC Australia
 http://192.168.1.245:9981/stream/channelid/1858496705?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="dd859200eb9f73343c1b31f6d3269fca" group-title="Quốc tế" tvg-chno="121",Animal Planet
