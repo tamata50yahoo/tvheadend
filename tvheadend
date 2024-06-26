@@ -52,7 +52,7 @@ http://192.168.1.245:9981/stream/channelid/1855342767?profile=pass
 http://192.168.1.245:9981/stream/channelid/921575365?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="29d7a65a319c1c75fcf5baa55731c151" group-title="HTV" tvg-chno="23",HTVC Ca Nhac
 http://192.168.1.245:9981/stream/channelid/1520883497?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="6da5cf77644c1ed43ad701c42d6d7283" group-title="HTV" tvg-chno="24",HTVC Du Lich
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="6da5cf77644c1ed43ad701c42d6d7283" group-title="HTV" tvg-chno="24",HTVC Du Lịch
 http://192.168.1.245:9981/stream/channelid/2010097005?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="299892c020a28f985270603684493cf7" group-title="HTV" tvg-chno="25",HTVC Gia Đình HD
 http://192.168.1.245:9981/stream/channelid/1083349033?profile=pass
