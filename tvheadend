@@ -1,6 +1,5 @@
 #EXTM3U
 
-#-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="0b3760146f2d46e37dc32c32bf9aea97" group-title="VTV" tvg-tvg-logo="1",VTV1 HD
 http://192.168.1.245:9981/stream/channelid/341849867?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="9cc3275a27b2bdb8e65fdcf07b76401a" group-title="VTV" tvg-tvg-logo="2",VTV2 HD
