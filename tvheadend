@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="0b3760146f2d46e37dc32c32bf9aea97" group-title="VTV" tvg-tvg-logo="1",VTV1 HD
 http://192.168.1.245:9981/stream/channelid/341849867?profile=pass
