@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="0b3760146f2d46e37dc32c32bf9aea97" group-title="VTV" tvg-chno="1",VTV1 HD
@@ -114,34 +115,52 @@ http://192.168.1.245:9981/stream/channelid/755160721?profile=pass
 https://api.wintv.me/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 https://api.wintv.me/360/175/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 https://api.wintv.me/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
 https://api.wintv.me/360/182/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 https://api.wintv.me/360/178/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 https://api.wintv.me/360/189/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 https://api.wintv.me/360/176/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://api.wintv.me/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://api.wintv.me/360/185/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://api.wintv.me/360/186/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png",ON Sport News
-https://tth.vn/onsportnews
-#https://api.wintv.me/360/170/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://api.wintv.me/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://api.wintv.me/360/187/index.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
+
+
+
+#EXTINF:-1tvg-id="vtvcab21hd"  group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
 https://api.wintv.me/360/179/index.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
 https://api.wintv.me/360/169/index.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
+https://api.wintv.me/360/188/index.m3u8
+#EXTINF:-1  tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5
+https://api.wintv.me/360/2380/index.m3u8
 
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="de5cb1af2401d25ed644ede2ededae54" group-title="Quốc tế" tvg-chno="50",ABC Australia
