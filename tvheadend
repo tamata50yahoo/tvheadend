@@ -155,7 +155,7 @@ https://api.wintv.me/360/187/index.m3u8
 
 #EXTINF:-1tvg-id="vtvcab21hd"  group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
 https://api.wintv.me/360/179/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png",ON Life
 https://api.wintv.me/360/188/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
 https://api.wintv.me/360/169/index.m3u8
