@@ -85,7 +85,8 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="8b44a4848645dac3f440b1ab8b6055d2" group-title="VTC" tvg-logo="37",VTC2
 http://192.168.1.245:9981/stream/channelid/77874315?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="a46e524376285d2fd89e056baf26935b" group-title="VTC" tvg-logo="38",VTC3 HD
-http://192.168.1.245:9981/stream/channelid/1129475748?profile=pass
+https://api.wintv.me/360/197/index.m3u8
+#http://192.168.1.245:9981/stream/channelid/1129475748?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="c2152fd12623fad2619b8a0a3a82ec12" group-title="VTC" tvg-logo="39",VTC4 HD
 http://192.168.1.245:9981/stream/channelid/1362040258?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="d0210d6369761e5dffbf380e61ac2723" group-title="VTC" tvg-logo="40",VTC5 HD
