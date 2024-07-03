@@ -80,7 +80,8 @@ http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="d2748530935352de65741f49453a2aeb" group-title="VTC" tvg-logo="36",VTC1 HD
-http://192.168.1.245:9981/stream/channelid/814052562?profile=pass
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#http://192.168.1.245:9981/stream/channelid/814052562?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="8b44a4848645dac3f440b1ab8b6055d2" group-title="VTC" tvg-logo="37",VTC2
 http://192.168.1.245:9981/stream/channelid/77874315?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="a46e524376285d2fd89e056baf26935b" group-title="VTC" tvg-logo="38",VTC3 HD
