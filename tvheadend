@@ -1,13 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
-#EXTVLCOPT:http-user-agent=TVHeadend/eb59284 ~ CoreELEC Tvh-addon v21.0.105 ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
-
+#EXTVLCOPT:http-user-agent=TVHeadend/eb59284 ~ CoreELEC Tvh-addon v21.0.105 ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android TvhClient/933 LibVLC/3.0.19 Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
@@ -86,11 +80,17 @@ http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="d2748530935352de65741f49453a2aeb" group-title="VTC" tvg-chno="36",VTC1 HD
-http://192.168.1.245:9981/stream/channelid/814052562?profile=pass
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#https://api.wintv.me/360/16/index.m3u8
+#http://192.168.1.245:9981/stream/channelid/814052562?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="8b44a4848645dac3f440b1ab8b6055d2" group-title="VTC" tvg-chno="37",VTC2
 http://192.168.1.245:9981/stream/channelid/77874315?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="a46e524376285d2fd89e056baf26935b" group-title="VTC" tvg-chno="38",VTC3 HD
-http://192.168.1.245:9981/stream/channelid/1129475748?profile=pass
+https://api.wintv.me/360/197/index.m3u8
+#http://192.168.1.245:9981/stream/channelid/1129475748?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="c2152fd12623fad2619b8a0a3a82ec12" group-title="VTC" tvg-chno="39",VTC4 HD
 http://192.168.1.245:9981/stream/channelid/1362040258?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="d0210d6369761e5dffbf380e61ac2723" group-title="VTC" tvg-chno="40",VTC5 HD
