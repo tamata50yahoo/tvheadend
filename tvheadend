@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTVLCOPT:http-user-agent=TVHeadend/eb59284 ~ CoreELEC Tvh-addon v21.0.105 ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android TvhClient/933 LibVLC/3.0.19 Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
@@ -118,80 +118,75 @@ http://192.168.1.245:9981/stream/channelid/1980310374?profile=pass
 http://192.168.1.245:9981/stream/channelid/704174424?profile=pass
 
 #-------------------------VTVcab---------------------------#
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab1/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab2-on-phim-viet/${start}/${offset}", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab4-phim-dac-sac/${start}/${offset}", On Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab4/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab5-e-channel/${start}/${offset}", ON E- Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E- Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg", ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab6/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", On O2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab7/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}", On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png"", On BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab8/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab9-info-tv/${start}/${offset}", ON Info TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab9/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab10/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab12/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", On Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab15/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://api.wintv.me/vtvcab16/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD (Dự Phòng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
-
 #EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab17/index.m3u8
 #https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab18/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtvcab19/index.m3u8
 #https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab20/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/b8e6f2a636ef6e82775ea7291937d91e?
 
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab21/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", On Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab22/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", ON Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtvcab23/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab23/index.m3u8
 
 
