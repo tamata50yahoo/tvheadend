@@ -5,19 +5,6 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-#-------------------SCTV-------------------#
-
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
-
-
-
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png",SCTV14 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
-
-
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
 http://192.168.1.245:9981/stream/channelid/1654602009?profile=pass
@@ -92,6 +79,9 @@ http://192.168.1.245:9981/stream/channelid/588323560?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="33cf2f9d81c7fbe43361693a2a22012b" group-title="HTV" tvg-chno="35",SCTV6 HD
 http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
 
+#EXTINF:-1 tvg-id="sctv14hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png",SCTV14 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="d2748530935352de65741f49453a2aeb" group-title="VTC" tvg-chno="36",VTC1 HD
