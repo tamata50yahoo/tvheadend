@@ -1,9 +1,22 @@
-#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#-------------------SCTV-------------------#
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
+
+
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png",SCTV14 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
+
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
@@ -119,7 +132,7 @@ http://192.168.1.245:9981/stream/channelid/704174424?profile=pass
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) 
 https://api.wintv.me/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
@@ -189,7 +202,6 @@ https://api.wintv.me/vtvcab22/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
 https://api.wintv.me/vtvcab23/index.m3u8
-
 
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="de5cb1af2401d25ed644ede2ededae54" group-title="Quốc tế" tvg-tvg-logo="50",ABC Australia
