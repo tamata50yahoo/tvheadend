@@ -1,9 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTM3U 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
