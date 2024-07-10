@@ -1,9 +1,6 @@
 #EXTM3U 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0, VLC/3.0.18 LibVLC/3.0.18, ReactNativeVideo/3.4.4, AppleWebKit/537.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, VLC/3.0.18 LibVLC/3.0.18, ReactNativeVideo/3.4.4, AppleWebKit/537.3 OTT Navigator/1.6.7.7 ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png", SCTV1 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
