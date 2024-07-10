@@ -72,11 +72,12 @@ http://192.168.1.245:9981/stream/channelid/1613165962?profile=pass
 http://192.168.1.245:9981/stream/channelid/1310489990?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="e81a11a30d10e198d2880159c294bdf6" group-title="HTV" tvg-chno="34",THVL4 _ TH Vinh Long
 http://192.168.1.245:9981/stream/channelid/588323560?profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="33cf2f9d81c7fbe43361693a2a22012b" group-title="HTV" tvg-chno="35",SCTV6 HD
 http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="HTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #-------------------VTC/VOV-------------------#
@@ -118,41 +119,41 @@ http://192.168.1.245:9981/stream/channelid/704174424?profile=pass
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-iptv 2.2.4) Android Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab2/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab4/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E- Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg", ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab7/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png"", On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab9/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab12/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab15/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
@@ -160,13 +161,13 @@ https://api.wintv.me/vtvcab15/index.m3u8
 https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab17/index.m3u8
 #https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", ON Vie Dramas
@@ -175,79 +176,75 @@ https://api.wintv.me/vtvcab19/index.m3u8
 #https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab20/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/b8e6f2a636ef6e82775ea7291937d91e?
 
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab21/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab22/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.wintv.me/vtvcab23/index.m3u8
 
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="de5cb1af2401d25ed644ede2ededae54" group-title="Quốc tế" tvg-tvg-logo="50",ABC Australia
-http://192.168.1.245:9981/stream/channelid/800152798?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="1ac71d756294f904b0b066bffb5c4c39" group-title="Quốc tế" tvg-tvg-logo="51",Animal Planet
-http://192.168.1.245:9981/stream/channelid/1964885786?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bLjwPFU.png" tvg-id="5ff05de520339ef91199644563d73d82" group-title="Quốc tế" tvg-tvg-logo="52",Animax
-http://192.168.1.245:9981/stream/channelid/1700655199?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="4e0054d11e59021ebdcf2d17268fb848" group-title="Quốc tế" tvg-tvg-logo="53",Asian Food Network
-http://192.168.1.245:9981/stream/channelid/1364459598?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="666538392197d1bd835b11d7cc6f6771" group-title="Quốc tế" tvg-tvg-logo="54",AXN
-http://192.168.1.245:9981/stream/channelid/959997286?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="afa49ed01b67ad96113b65fb6e063cf8" group-title="Quốc tế" tvg-tvg-logo="55",BBC CbeeBies
-http://192.168.1.245:9981/stream/channelid/1352574127?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="9533ec7146ac84d060b021454658a012" group-title="Quốc tế" tvg-tvg-logo="56",BBC Earth
-http://192.168.1.245:9981/stream/channelid/1911305109?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="d51936ea26a62b9f5ad58b05de43696d" group-title="Quốc tế" tvg-tvg-logo="57",BBC Lifestyle
-http://192.168.1.245:9981/stream/channelid/1781930453?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsByQfe.png" tvg-id="336b193211e206d959d5899d178c5057" group-title="Quốc tế" tvg-tvg-logo="58",BBC News
-http://192.168.1.245:9981/stream/channelid/840526643?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="1ceb1671a9e8a284704f962822b978f9" group-title="Quốc tế" tvg-tvg-logo="59",Bloomberg
-http://192.168.1.245:9981/stream/channelid/1897327388?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="58642607ad541bd7a01f2bb52be33504" group-title="Quốc tế" tvg-tvg-logo="60",Cartoon Network
-http://192.168.1.245:9981/stream/channelid/119956568?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIQE8kA.png" tvg-id="d8e0ca484338ca8e7d347f6bfbd4528a" group-title="Quốc tế" tvg-tvg-logo="61",CNA
-http://192.168.1.245:9981/stream/channelid/1221255384?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="7143a99870011616fd19bec7555820a6" group-title="Quốc tế" tvg-tvg-logo="62",CNN
-http://192.168.1.245:9981/stream/channelid/413746033?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="a1ba22ded3261a88bea169b6705ff451" group-title="Quốc tế" tvg-tvg-logo="63",Da Vinci
-http://192.168.1.245:9981/stream/channelid/1579334305?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="5cc3a074eeb351d53a694fb28f4c1dad" group-title="Quốc tế" tvg-tvg-logo="64",Discovery Asia
-http://192.168.1.245:9981/stream/channelid/1956692828?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="21fd913bc84c0d7e7d8bd9714f890ba4" group-title="Quốc tế" tvg-tvg-logo="65",Discovery Channel
-http://192.168.1.245:9981/stream/channelid/999423265?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="86383a96c38400815087319c7446401c" group-title="Quốc tế" tvg-tvg-logo="66",Dreamworks
-http://192.168.1.245:9981/stream/channelid/372914310?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="4ab508ac072f3a849895d254389f39ac" group-title="Quốc tế" tvg-tvg-logo="67",DW (English)
-http://192.168.1.245:9981/stream/channelid/738768202?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="96f187447b3d6e2754dc07a35aa5a889" group-title="Quốc tế" tvg-tvg-logo="68",Fashion TV
-http://192.168.1.245:9981/stream/channelid/1149759894?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YF2zMTz.png" tvg-id="13c483974f4b22a2d5879ff134ca601e" group-title="Quốc tế" tvg-tvg-logo="69",France 24 (English)
-http://192.168.1.245:9981/stream/channelid/394511379?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="c74653b1f17b6f2c419129e15ecdfcc9" group-title="Quốc tế" tvg-tvg-logo="70",HBO
-http://192.168.1.245:9981/stream/channelid/827541191?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" tvg-id="56aa77086f004ae306823ff3051fa621" group-title="Quốc tế" tvg-tvg-logo="71",KBS World
-http://192.168.1.245:9981/stream/channelid/142060118?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" tvg-id="7db81ab08ee260c23917590a54744a79" group-title="Quốc tế" tvg-tvg-logo="72",NHK World Japan
-http://192.168.1.245:9981/stream/channelid/807057533?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4zXtYX.png" tvg-id="c022a19ab9337649ca0fa1aa901b0051" group-title="Quốc tế" tvg-tvg-logo="73",Outdoor Channel
-http://192.168.1.245:9981/stream/channelid/446767808?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZStxdQI.png" tvg-id="48a754f7afde4f6d4a525a5c663490ab" group-title="Quốc tế" tvg-tvg-logo="74",TLC
-http://192.168.1.245:9981/stream/channelid/2002036552?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D8zXF7p.png" tvg-id="1c3dc713d11f8cb3a1b0b6b0721084fc" group-title="Quốc tế" tvg-tvg-logo="75",TV5 Monde Asie
-http://192.168.1.245:9981/stream/channelid/331824412?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="49b29b879e9157a78d401c1e5636d64d" group-title="Quốc tế" tvg-tvg-logo="76",WBTV
-http://192.168.1.245:9981/stream/channelid/127644233?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DZNTBjC.png" tvg-id="7e33488d6c52a2e5ed82d52afe976d4b" group-title="Quốc tế" tvg-tvg-logo="77",Arirang
-http://192.168.1.245:9981/stream/channelid/222835582?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H0hAm72.png" tvg-id="1cfdd5e3f78dc0e63d858037cdcabd46" group-title="Quốc tế" tvg-tvg-logo="78",CNBC
-http://192.168.1.245:9981/stream/channelid/1674968348?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="3e0d1a93d747d93ccef813a5d49a5b27" group-title="Quốc tế" tvg-chno="50",ABC Australia
+http://192.168.1.245:9981/stream/channelid/320474430?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="d9b723a28b37224df3a0c8affba06eda" group-title="Quốc tế" tvg-chno="51",Animal Planet
+http://192.168.1.245:9981/stream/channelid/572766169?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLjwPFU.png" tvg-id="2adc0e737c8abcd079b506a8c8ed0678" group-title="Quốc tế" tvg-chno="52",Animax
+http://192.168.1.245:9981/stream/channelid/1930353706?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="e44213e59e8f909003f9e7c154567936" group-title="Quốc tế" tvg-chno="53",Asian Food Network
+http://192.168.1.245:9981/stream/channelid/1695761124?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="049ddbd14e9be00116ea02984bbfffa8" group-title="Quốc tế" tvg-chno="54",AXN
+http://192.168.1.245:9981/stream/channelid/1373347076?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="fad1c0818c6a41599e1f626a4fcfd50e" group-title="Quốc tế" tvg-chno="55",BBC CbeeBies
+http://192.168.1.245:9981/stream/channelid/29413882?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="dc6a78ea97aa2426410aa6ed9e26faab" group-title="Quốc tế" tvg-chno="56",BBC Earth
+http://192.168.1.245:9981/stream/channelid/1786276572?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="967da5095c1d10e567579149664c7689" group-title="Quốc tế" tvg-chno="57",BBC Lifestyle
+http://192.168.1.245:9981/stream/channelid/161840534?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hsByQfe.png" tvg-id="ff1670d1d712995a6307a8756c316a10" group-title="Quốc tế" tvg-chno="58",BBC News
+http://192.168.1.245:9981/stream/channelid/1366300415?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="a91a87d988e61f2b4c73a8793c5513fb" group-title="Quốc tế" tvg-chno="59",Bloomberg
+http://192.168.1.245:9981/stream/channelid/1502026409?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="5a757b9ab87112fd8efcb4b2a5916010" group-title="Quốc tế" tvg-chno="60",Cartoon Network
+http://192.168.1.245:9981/stream/channelid/444298586?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIQE8kA.png" tvg-id="67b817727804ef83fbe7904a7d4b6187" group-title="Quốc tế" tvg-chno="61",CNA
+http://192.168.1.245:9981/stream/channelid/1914157159?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="5713aefd4033bc1c4617720a27ea6480" group-title="Quốc tế" tvg-chno="62",CNN
+http://192.168.1.245:9981/stream/channelid/2108560215?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="a1f8608e22fca0d2816dc18175b71f58" group-title="Quốc tế" tvg-chno="63",Da Vinci
+http://192.168.1.245:9981/stream/channelid/241236129?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="d3574222f5cdda62566e0f50592c81a6" group-title="Quốc tế" tvg-chno="64",Discovery Asia
+http://192.168.1.245:9981/stream/channelid/574773203?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="f3f662c05df3e2e03eaf540d80601d8b" group-title="Quốc tế" tvg-chno="65",Discovery Channel
+http://192.168.1.245:9981/stream/channelid/1080227571?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="c30ed7b7b2563c9a92abcea854f9183f" group-title="Quốc tế" tvg-chno="66",Dreamworks
+http://192.168.1.245:9981/stream/channelid/936840899?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="322ca3c0e5eef63f29150e6b9c9ce944" group-title="Quốc tế" tvg-chno="67",DW (English)
+http://192.168.1.245:9981/stream/channelid/1084435506?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="6dc8d3cbaf2134cbab38f6d3f85573b0" group-title="Quốc tế" tvg-chno="68",Fashion TV
+http://192.168.1.245:9981/stream/channelid/1272170605?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YF2zMTz.png" tvg-id="9bee1e1c23f1a2adc46af21660e2aded" group-title="Quốc tế" tvg-chno="69",France 24 (English)
+http://192.168.1.245:9981/stream/channelid/471789211?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="32497d23c46e8f2980b5cd7b5a8d6f7b" group-title="Quốc tế" tvg-chno="70",HBO
+http://192.168.1.245:9981/stream/channelid/595413298?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" tvg-id="424c5ff786375eb73315e4ce61ce1bfd" group-title="Quốc tế" tvg-chno="71",KBS World
+http://192.168.1.245:9981/stream/channelid/2002734146?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" tvg-id="fb509c6cd2dd1e1d969cbb28711a8581" group-title="Quốc tế" tvg-chno="72",NHK World Japan
+http://192.168.1.245:9981/stream/channelid/1822183675?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4zXtYX.png" tvg-id="5ab465e92ab135f623012b6736cf3515" group-title="Quốc tế" tvg-chno="73",Outdoor Channel
+http://192.168.1.245:9981/stream/channelid/1768272986?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZStxdQI.png" tvg-id="a9748a6f0297935992f48e9c363ec6dc" group-title="Quốc tế" tvg-chno="74",TLC
+http://192.168.1.245:9981/stream/channelid/1871344809?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8zXF7p.png" tvg-id="fdc1ebd05a91a766c671e353c48eb015" group-title="Quốc tế" tvg-chno="75",TV5 Monde Asie
+http://192.168.1.245:9981/stream/channelid/1357627901?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="77988c3445bdc9b7ef1d27a74ee2325f" group-title="Quốc tế" tvg-chno="76",WBTV
+http://192.168.1.245:9981/stream/channelid/881629303?profile=pass
 
 
 #-------------------Địa phương-------------------#
