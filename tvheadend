@@ -1,5 +1,6 @@
 #EXTM3U 
-#EXTVLCOPT:http-user-agent=TvhClient/933 LibVLC/3.0.19 Mozilla/5.0  Android
+#EXTVLCOPT:http-user-agent=TvhClient/933 LibVLC/3.0.19 VLC/3.0.17.4 LibVLC/3.0.17.4 Mozilla/5.0 (m3u-iptv 2.2.4) Android) Mozilla/5.0 (Linux; Android 10; K; Window NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
