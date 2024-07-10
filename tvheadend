@@ -3,7 +3,7 @@
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="19399fe2350add658e5fc3bbd83f0714" group-title="VTV" tvg-chno="1",VTV1 HD
-http://192.168.1.245:9981/stream/channelid/1654602009?profile=matroska
+http://192.168.1.245:9981/stream/channelid/1654602009?profile=webtv-h264-aac-matroska
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="2ef8f943e4f29420ddc53b54d04ece97" group-title="VTV" tvg-chno="2",VTV2 HD
 http://192.168.1.245:9981/stream/channelid/1140455470?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="55c6ba201660e25895de7b672f85351d" group-title="VTV" tvg-chno="3",VTV3 HD
