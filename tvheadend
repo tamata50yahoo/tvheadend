@@ -191,8 +191,8 @@ https://api.wintv.me/vtvcab22/index.m3u8
 https://api.wintv.me/vtvcab23/index.m3u8
 
 #-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="3e0d1a93d747d93ccef813a5d49a5b27" group-title="Quốc tế" tvg-chno="50",ABC Australia
-http://192.168.1.245:9981/stream/channelid/320474430?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="195605a780d25b81d9635e865f58ddfc" group-title="Quốc tế" tvg-chno="50",ABC Australia
+http://192.168.1.245:9981/stream/channelid/654661145?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="d9b723a28b37224df3a0c8affba06eda" group-title="Quốc tế" tvg-chno="51",Animal Planet
 http://192.168.1.245:9981/stream/channelid/572766169?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bLjwPFU.png" tvg-id="2adc0e737c8abcd079b506a8c8ed0678" group-title="Quốc tế" tvg-chno="52",Animax
