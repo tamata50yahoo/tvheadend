@@ -249,9 +249,9 @@ http://192.168.1.245:9981/stream/channelid/1871344809?profile=paas
 http://192.168.1.245:9981/stream/channelid/1357627901?profile=paas
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="77988c3445bdc9b7ef1d27a74ee2325f" group-title="Quốc tế" tvg-chno="76",WBTV
 http://192.168.1.245:9981/stream/channelid/881629303?profile=paas
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DZNTBjC.png" tvg-id="f01ac023d2342077a5d16d04f2d2004d" group-title="Địa phương" tvg-chno="77",Arirang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZNTBjC.png" tvg-id="f01ac023d2342077a5d16d04f2d2004d" group-title="Quốc tế" tvg-chno="77",Arirang
 http://192.168.1.245:9981/stream/channelid/599792368?profile=paas
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H0hAm72.png" tvg-id="b4e7138be647b6e6560a31ceb74c4979" group-title="Địa phương" tvg-chno="78",CNBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0hAm72.png" tvg-id="b4e7138be647b6e6560a31ceb74c4979" group-title="Quốc tế" tvg-chno="78",CNBC
 http://192.168.1.245:9981/stream/channelid/185853876?profile=paas
 
 #-------------------Địa phương-------------------#
