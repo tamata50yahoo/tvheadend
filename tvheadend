@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.3
+
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
