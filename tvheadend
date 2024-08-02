@@ -90,8 +90,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="d2748530935352de65741f49453a2aeb" group-title="VTC" tvg-chno="36",VTC1 HD
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-#https://api.wintv.me/360/16/index.m3u8
+
 #http://192.168.1.245:9981/stream/channelid/814052562?profile=paas
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="8b44a4848645dac3f440b1ab8b6055d2" group-title="VTC" tvg-chno="37",VTC2
