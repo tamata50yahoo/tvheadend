@@ -1,11 +1,4 @@
 #EXTM3U
-
-
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://192.167.1.245:9981/xmltv/channels"
-
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.12.3
 
 
