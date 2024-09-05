@@ -77,8 +77,8 @@ http://192.167.1.245:9981/stream/channelid/199571121?profile=pass
 http://192.167.1.245:9981/stream/channelid/597995640?profile=pass
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="HTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14 HD
-
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
+
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 logo="http://192.167.1.245:9981/imagecache/3338" tvg-id="c8515e0335ac2c94f1ccc577cc026774" group-title="VTC" tvg-chno="36",VTC1 HD
