@@ -111,67 +111,48 @@ http://192.167.1.246:9981/stream/channelid/672072244?profile=pass
 http://192.167.1.246:9981/stream/channelid/1625409538?profile=pass
 
 #-------------------------VTVcab---------------------------#
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
-https://thvip.site/360/180/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg",ON Vie Giải trí
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=180
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg", ON Phim Việt
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=175
 
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
-https://thvip.site/360/175/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640", ON Sports HD
+http://113.162.2.210:8989/rtp/232.84.3.242:11374
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-http://antm.dynu.net:14285/rtp/232.84.3.242:11374
 
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
-https://thvip.site/360/181/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E- Channel
-https://thvip.site/360/182/index.m3u8
-
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=181
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg", ON E- Channel
+https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg", ON Sports+
-https://thvip.site/360/183/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", On O2TV
-http://thvip.site/360/136/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", On BiBi
-https://thvip.site/360/178/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV
-https://thvip.site/360/189/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
-https://thvip.site/360/176/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style TV
-https://thvip.site/360/184/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", On Music
-https://thvip.site/360/185/index.m3u8
+https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
 
 
 
-#EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-https://thvip.site/360/186/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg", On O2TV
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=136
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg", On BiBi
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=178
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg", ON Info TV
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=189
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg", ON Cine
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=176
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg", ON Style TV
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=184
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://giaitritv.me/uploads/tv_image/sm/vtvcab-15-on-music.png", On Music
+https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TruyenHinh.Click
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-https://tth.vn/ONSPORT-NEWS
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", ON Vie Dramas
-https://thvip.site/360/177/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png", ON V Family
-https://thvip.site/360/187/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", On Kids
-https://thvip.site/360/179/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", On Life
-https://thvip.site/360/188/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-https://thvip.site/360/169/index.m3u8
-
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
-https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg", ON Vie Dramas
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=177
+#EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=187
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp", On Kids
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=179
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg", On Life
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=188
 
 #-------------------Quốc tế-------------------#
 #EXTINF:-1 logo="https://i.imgur.com/UI80qhw.png" tvg-id="c70559c2a8e8d7f02e634385a439638e" group-title="Quốc tế" tvg-chno="50",ABC Australia
