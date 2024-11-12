@@ -6,7 +6,7 @@
 #EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="d92cb7d251f06f943ab5ed77eb462233" group-title="VTV" tvg-chno="1",VTV1 HD
 http://192.167.1.246:9981/stream/channelid/1387736281?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="e6c9ac027e84b5c2552a7bac2724663f" group-title="VTV" tvg-chno="2",VTV2 HD
-http://192.167.1.246:9981/stream/channelid/44878310?profile=pass
+http://192.167.1.245:9981/stream/channelid/595808709?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/7rLCvgS.png" tvg-id="f6b8dad7a22e3ba38cd5fd9fa82502bd" group-title="VTV" tvg-chno="3",VTV3 HD
 http://192.167.1.246:9981/stream/channelid/1473951990?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/9zVTtsA.png" tvg-id="7227947033f13f9e4d56def0bd315b45" group-title="VTV" tvg-chno="4",VTV4 HD
